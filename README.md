@@ -14,3 +14,8 @@ The code can perform two functions:
 ## Other files and SQL Table Sample:
 
 ![File of SQL and VS Code Screenshots](https://cdn.discordapp.com/attachments/1210160699016224819/1210820527976087552/Desktop_-_1_1.png?ex=65ebf37d&is=65d97e7d&hm=06f98b70dcbbc8957e6ce31111cd1d6198d04ce981b290ac36c90343eefd9f45&)
+
+##
+
+Nodemon, Express, Cors were installed in VS Code. 
+
