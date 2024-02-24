@@ -15,9 +15,13 @@ The code can perform two functions:
 
 ## Other files and SQL Table Sample:
 
-![File of SQL and VS Code Screenshots](https://cdn.discordapp.com/attachments/1210160699016224819/1210820527976087552/Desktop_-_1_1.png?ex=65ebf37d&is=65d97e7d&hm=06f98b70dcbbc8957e6ce31111cd1d6198d04ce981b290ac36c90343eefd9f45&)
+![File of SQL and VS Code Screenshots](https://cdn.discordapp.com/attachments/806881514389766184/1210824457891880960/Desktop_-_1_1.png?ex=65ebf726&is=65d98226&hm=72f2d84bdcf19528143b70ab723b299d3eb54d4c0f9252d8bdddbd5e7915a13e&)
 
 ##
 
 Nodemon, Express, Cors were installed in VS Code. 
 
+
+## Output
+
+![Output File](https://media.discordapp.net/attachments/806881514389766184/1210824477252915221/Desktop_-_2_1.png?ex=65ebf72b&is=65d9822b&hm=dc512ec3ab5b18473b61ecf8b906595e27b07049f62b6eae38879772484b37ca&=&format=webp&quality=lossless&width=942&height=662)
