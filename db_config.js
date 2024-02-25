@@ -1,3 +1,5 @@
+// Password on 7th line has been ommited for obvious reasons
+
 const mysql= require("mysql2");
 const connection= mysql.createConnection({
     host:"127.0.0.1",
