@@ -20,3 +20,17 @@ app.get('/getTopper', (req, res) => {
         }
     );
 });
+
+app.get('/getFailedList', (req, res) => {
+    connection.query(
+        'SELECT * FROM marks WHERE marks < 50', (err, results) => {
+            if (err) {
+                console.log('Error in query!');
+                res.send('Error in DB query');
+            } else {
+                console.log(results);
+                res.send(results);
+            }
+        }
+    );
+});
