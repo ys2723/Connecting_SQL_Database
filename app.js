@@ -5,3 +5,18 @@ const { connection } = require('./db/db_config');
 const app = express();
 app.use(cors());
 const port = 3000;
+
+app.get('/getTopper', (req, res) => {
+    connection.query(
+        'SELECT * FROM marks ORDER BY marks DESC LIMIT 1',
+        (err, results) => {
+            if (err) {
+                console.log('Error in query!');
+                res.send('Error in DB query');
+            } else {
+                console.log(results);
+                res.send(results);
+            }
+        }
+    );
+});
