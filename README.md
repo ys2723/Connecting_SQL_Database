@@ -11,17 +11,21 @@ The code can perform two functions:
 1. It can get the details of the topper by the '/getTopper' method.
 2. It can get the details of failed students by the '/getFailedList' method.
 
+
 ##
+
 
 ## Other files and SQL Table Sample:
 
 ![File of SQL and VS Code Screenshots](https://cdn.discordapp.com/attachments/806881514389766184/1210824457891880960/Desktop_-_1_1.png?ex=65ebf726&is=65d98226&hm=72f2d84bdcf19528143b70ab723b299d3eb54d4c0f9252d8bdddbd5e7915a13e&)
 
-##
-
-Nodemon, Express, Cors were installed in VS Code. 
-
 
 ## Output
 
 ![Output File](https://media.discordapp.net/attachments/806881514389766184/1210824477252915221/Desktop_-_2_1.png?ex=65ebf72b&is=65d9822b&hm=dc512ec3ab5b18473b61ecf8b906595e27b07049f62b6eae38879772484b37ca&=&format=webp&quality=lossless&width=942&height=662)
+
+
+##
+
+
+Nodemon, Express and Cors were installed in VS Code to get this program running.
