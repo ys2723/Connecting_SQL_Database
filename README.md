@@ -22,7 +22,7 @@ The code can perform two functions:
 
 ## Output
 
-![Output File](https://media.discordapp.net/attachments/806881514389766184/1210824477252915221/Desktop_-_2_1.png?ex=65ebf72b&is=65d9822b&hm=dc512ec3ab5b18473b61ecf8b906595e27b07049f62b6eae38879772484b37ca&=&format=webp&quality=lossless&width=942&height=662)
+![Output File](https://i.postimg.cc/HkNYhD8R/Desktop-2.png) 
 
 
 ##
