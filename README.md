@@ -17,7 +17,7 @@ The code can perform two functions:
 
 ## Other files and SQL Table Sample:
 
-![File of SQL and VS Code Screenshots](https://cdn.discordapp.com/attachments/806881514389766184/1210824457891880960/Desktop_-_1_1.png?ex=65ebf726&is=65d98226&hm=72f2d84bdcf19528143b70ab723b299d3eb54d4c0f9252d8bdddbd5e7915a13e&)
+![File of SQL and VS Code Screenshots](https://i.postimg.cc/Pr2r18Xt/Desktop-1.png)
 
 
 ## Output
